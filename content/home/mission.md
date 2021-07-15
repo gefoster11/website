@@ -15,7 +15,7 @@ design:
     gradient_start: ""
     gradient_end: ""
     text_color_light: true
-    image: ubc-13.jpg
+    image: General_BPCuff.jpg
     image_darken: 0.3
   spacing:
     padding:
