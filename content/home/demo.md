@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: remove
 headless: true
-weight: 15
+weight: 0
 title: Academic Template
 subtitle: ""
 active: false
@@ -15,6 +15,7 @@ design:
     gradient_start: DarkGreen
     gradient_end: ForestGreen
     text_color_light: true
+    image: icon.png
   spacing:
     padding:
       - 20px
