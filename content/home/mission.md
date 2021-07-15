@@ -25,6 +25,6 @@ design:
       - "0"
 ---
 # Mission
-The Cardiopulmonary Laboratory for Experimental and Applied Physiology (CPLEAP), through discovery and innovation, aims to advance our fundamental understanding of how the cardiovascular, respiratory, and autonomic systems function in concert to support human life in a dynamic environment.  Our training environment supports and promotes the development of independent researchers who have the freedom to achieve the highest level of skill proficiency and creativity in their research.  
+The Cardiopulmonary Laboratory for Experimental and Applied Physiology, through discovery and innovation, aims to advance our fundamental understanding of how the cardiovascular, respiratory, and autonomic systems function in concert to support human life in a dynamic environment.  Our training environment supports and promotes the development of independent researchers who have the freedom to achieve the highest level of skill proficiency and creativity in their research.  
 # Vision
 We envision a world in which the complex interplay between human physiological systems, including the cardiovascular, respiratory, and autonomic nervous systems, are better understood permitting strategies to optimize human health and treat disease.  
