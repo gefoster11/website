@@ -10,12 +10,13 @@ title: ""
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     gradient_start: DarkGreen
     gradient_end: ForestGreen
     text_color_light: true
     image: ubc-13.jpg
+    image_darken: 0.5
   spacing:
     padding:
       - 20px
@@ -26,7 +27,11 @@ design:
 # <br/>
 # <br/>
 # <br/>
+# <br/>
+# <br/>
 # <h1 align="center">The CardioPulmonary Laboratory for Experimental and Applied Physiology<h1 align="center">
+# <br/>
+# <br/>
 # <br/>
 # <br/>
 # <br/>
