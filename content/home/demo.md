@@ -6,7 +6,7 @@ widget: blank
 widget_id: update2
 headless: true
 weight: 10
-title: ""
+title: "The CardioPulmonary Laboratory for Experimental and Applied Physiology"
 subtitle: ""
 active: true
 design:
@@ -24,15 +24,4 @@ design:
       - 100px
       - "0"
 ---
-# <br/>
-# <br/>
-# <br/>
-# <br/>
-# <br/>
 # <h1 align="center">The CardioPulmonary Laboratory for Experimental and Applied Physiology<h1 align="center">
-# <br/>
-# <br/>
-# <br/>
-# <br/>
-# <br/>
-    
