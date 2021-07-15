@@ -5,10 +5,10 @@ advanced:
 widget: blank
 widget_id: remove
 headless: true
-weight: 0
+weight: 1
 title: Academic Template
 subtitle: ""
-active: false
+active: true
 design:
   columns: "1"
   background:
