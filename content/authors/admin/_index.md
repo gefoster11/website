@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Glen E. Foster, Ph.D.
+title: Glen E. Foster, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
