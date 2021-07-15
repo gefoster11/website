@@ -6,7 +6,7 @@ widget: blank
 widget_id: update
 headless: true
 weight: 1
-title: CPLEAP
+title: ""
 subtitle: ""
 active: true
 design:
@@ -23,4 +23,4 @@ design:
       - 20px
       - "0"
 ---
-## The CardioPulmonary Laboratory for Experimental and Applied Physiology
+# The CardioPulmonary Laboratory for Experimental and Applied Physiology
