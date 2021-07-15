@@ -5,23 +5,23 @@ advanced:
 widget: blank
 widget_id: update2
 headless: true
-weight: 1
+weight: 10
 title: ""
 subtitle: ""
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
-    gradient_start: DarkGreen
-    gradient_end: ForestGreen
+    gradient_start: ""
+    gradient_end: ""
     text_color_light: true
     image: ubc-13.jpg
     image_darken: 0.5
   spacing:
     padding:
-      - 20px
+      - 100px
       - "0"
-      - 20px
+      - 100px
       - "0"
 ---
 # <br/>
