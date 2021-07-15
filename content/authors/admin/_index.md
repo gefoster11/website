@@ -71,5 +71,3 @@ highlight_name: true
 ---
 
 As an integrative human physiologist, my research aims to understand the complex interplay between cardiovascular and respiratory reflexes in the maintenance of homeostasis under environmental stresses and in disease. My research team is constantly developing novel tools, analyses, and technological approaches that permit our research questions to be answered from unique angles. We are continuously learning and adapting our skill set to remain on the cutting edge of innovation and discovery.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
