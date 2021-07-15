@@ -21,7 +21,7 @@ twitter: '@fosterglen'
 # Contact (edit or remove options as required)
 
 email: glen.foster@ubc.ca
-#phone: 888 888 88 88
+phone: "" #888 888 88 88
 address:
   street: 1147 Research Road
   city: Kelowna
@@ -141,8 +141,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '2'
-  api_key: ''
+  provider: 'google'
+  api_key: 'AIzaSyCh3RqAlyeXa0LqiNF-1hnG7Ia3d-bTu8M'
   zoom: 15
 marketing:
   google_analytics: ''
