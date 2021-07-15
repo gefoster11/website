@@ -16,7 +16,7 @@ design:
     gradient_end: ""
     text_color_light: true
     image: ubc-13.jpg
-    image_darken: 1.0
+    image_darken: 0.3
   spacing:
     padding:
       - 400px
