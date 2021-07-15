@@ -7,7 +7,7 @@ widget_id: update2
 headless: true
 weight: 10
 title: "The CardioPulmonary Laboratory for Experimental and Applied Physiology"
-subtitle: ""
+subtitle: "Specializing in human integrative physiology research"
 active: true
 design:
   columns: "1"
@@ -19,9 +19,8 @@ design:
     image_darken: 0.5
   spacing:
     padding:
-      - 100px
+      - 200px
       - "0"
-      - 100px
+      - 200px
       - "0"
 ---
-# <h1 align="center">The CardioPulmonary Laboratory for Experimental and Applied Physiology<h1 align="center">
