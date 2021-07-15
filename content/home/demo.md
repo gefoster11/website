@@ -23,6 +23,11 @@ design:
       - 20px
       - "0"
 ---
-# The CardioPulmonary Laboratory for
-
-# Experimental and Applied Physiology
+# <br/>
+# <br/>
+# <br/>
+# <h1 align="center">The CardioPulmonary Laboratory for Experimental and Applied Physiology<h1 align="center">
+# <br/>
+# <br/>
+# <br/>
+    
