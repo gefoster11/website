@@ -19,8 +19,8 @@ design:
     image_darken: 0.3
   spacing:
     padding:
-      - 400px
+      - 200px
       - "0"
-      - 400px
+      - 200px
       - "0"
 ---
