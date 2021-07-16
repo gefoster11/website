@@ -38,7 +38,7 @@ abstract: "Peripheral respiratory chemoreceptors monitor breath-by-breath change
 # Summary. An optional shortened abstract.
 summary: "*What is the central question of this study?* Do cardiorespiratory experience-dependent effects (EDEs) differ between two different stimulus durations of acute isocapnic intermittent hypoxia (IHx; 5-min vs. 90-s cycles between hypoxia and normoxia)? *What is the main finding and its importance?* There was long-term facilitation in ventilation and blood pressure in both IHx protocols, but there was no evidence of progressive augmentation or post-hypoxia frequency decline. Not all EDEs described in animal models translate to acute isocapnic IHx responses in humans, and cardiorespiratory responses to 5-min versus 90-s on/off IHx protocols are largely similar."
 
-tags: ["Respiration"]
+tags: ["Respiration", "Circulation"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -71,6 +71,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - Respiration
+- Circulation
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
