@@ -40,7 +40,7 @@ abstract: "*Purpose:* In normotensive patients with OSA, the muscle sympathetic 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Autonomic Nervous System, Circulation]
+tags: ["Autonomic Nervous System", "Circulation"]
 
 # Display this page in the Featured widget?
 featured: true
