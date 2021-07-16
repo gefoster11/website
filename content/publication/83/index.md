@@ -47,8 +47,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
- - name: PubMed
-   url: https://pubmed.ncbi.nlm.nih.gov/34133241/
+# - name: PubMed
+#   url: 
 
 url_pdf: ''
 url_code: ''
@@ -56,7 +56,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://pubmed.ncbi.nlm.nih.gov/34133241/'
 url_video: ''
 
 # Featured image
