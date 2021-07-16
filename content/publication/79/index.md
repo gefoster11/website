@@ -34,7 +34,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "Editorial for: Niewinski et al. (2021) Oxygenation pattern and compensatory responses to hypoxia and hypercapnia following bilateral carotid body resection in humans. 599.8: 2323-2340."
 
-tags: ["Respiration", "Autonomic Nervous System"]
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
