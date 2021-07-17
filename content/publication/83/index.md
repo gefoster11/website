@@ -43,7 +43,7 @@ summary: Subpopulations of muscle sympathetic single units can be inhibited duri
 tags: [Autonomic Nervous System]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
