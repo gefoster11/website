@@ -51,7 +51,7 @@ summary: "We assessed the time course, magnitude, and variability of integrated 
 tags: ["Respiration", "Circulation"]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
