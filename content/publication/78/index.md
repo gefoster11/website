@@ -68,8 +68,8 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-#- Respiration
-#- Circulation
+- Respiration
+- Circulation
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
