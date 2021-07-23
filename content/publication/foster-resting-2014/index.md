@@ -1,0 +1,13 @@
+---
+title: "Resting pulmonary haemodynamics and shunting: a comparison of sea-level inhabitants to high altitude Sherpas"
+date: 2014-03-01
+publishDate: 2021-07-23T18:07:52.399941Z
+authors: ["Glen E. Foster", "Philip N. Ainslie", "Mike Stembridge", "Trevor A. Day", "Akke Bakker", "Samuel J. E. Lucas", "Nia C. S. Lewis", "David B. MacLeod", "Andrew T. Lovering"]
+publication_types: ["2"]
+abstract: "The incidence of blood flow through intracardiac shunt and intrapulmonary arteriovenous anastomoses (IPAVA) may differ between Sherpas permanently residing at high altitude (HA) and sea-level (SL) inhabitants as a result of evolutionary pressure to improve gas exchange and/or resting pulmonary haemodynamics. To test this hypothesis we compared sea-level inhabitants at SL (SL-SL; n = 17), during acute isocapnic hypoxia (SL-HX; n = 7) and following 3 weeks at 5050 m (SL-HA; n = 8 non-PFO subjects) to Sherpas at 5050 m (n = 14). SpO2, heart rate, pulmonary artery systolic pressure (PASP) and cardiac index (Qi) were measured during 5 min of room air breathing at SL and HA, during 20 min of isocapnic hypoxia (SL-HX; PETO2 = 47 mmHg) and during 5 min of hyperoxia (FIO2 = 1.0; Sherpas only). Intracardiac shunt and IPAVA blood flow was evaluated by agitated saline contrast echocardiography. Although PASP was similar between groups at HA (Sherpas: 30.0 ± 6.0 mmHg; SL-HA: 32.7 ± 4.2 mmHg; P = 0.27), it was greater than SL-SL (19.4 ± 2.1 mmHg; P textless 0.001). The proportion of subjects with intracardiac shunt was similar between groups (SL-SL: 41%; Sherpas: 50%). In the remaining subjects, IPAVA blood flow was found in 100% of subjects during acute isocapnic hypoxia at SL, but in only 4 of 7 Sherpas and 1 of 8 SL-HA subjects at rest. In conclusion, differences in resting pulmonary vascular regulation, intracardiac shunt and IPAVA blood flow do not appear to account for any adaptation to HA in Sherpas. Despite elevated pulmonary pressures and profound hypoxaemia, IPAVA blood flow in all subjects at HA was lower than expected compared to acute normobaric hypoxia."
+featured: false
+publication: "*The Journal of Physiology*"
+tags: ["Intrapulmonary arteriovenous anastomoses", "Pulmonary Gas Exchange", "Pulmonary artery pressure", "Hypoxia", "High-altitude natives", "Altitude", "Blood Pressure", "Acclimatization", "Hemodynamics", "Humans", "Sherpa", "Adult", "Female", "Male", "Arteriovenous Anastomosis", "Echocardiography", "Pulmonary Artery", "Young Adult", "Pulmonary Circulation", "Middle Aged", "Ethnic Groups", "Foramen Ovale", "Patent", "Nepal", "Pulmonary Veins"]
+doi: "10.1113/jphysiol.2013.266593"
+---
+

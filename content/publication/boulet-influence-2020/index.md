@@ -1,0 +1,13 @@
+---
+title: "Influence of blood Po2 on the stability of agitated saline contrast"
+date: 2020-10-01
+publishDate: 2021-07-23T18:07:52.420930Z
+authors: ["Lindsey M. Boulet", "Tyler D. Vermeulen", "Paul D. Cotton", "Glen E. Foster"]
+publication_types: ["2"]
+abstract: "The utility of transthoracic saline contrast echocardiography (TTSCE) to assess blood flow through intrapulmonary arteriovenous anastomoses (Q̇IPAVA) in humans is limited due to the potential destabilizing effects of the gas concentration gradients established in varied blood-gas environments. This study assessed the specific effect of a hyperoxic and mixed venous blood-gas environment on the stability of saline contrast. We hypothesized that the rate of contrast mass lost in hyperoxic blood would be similar to mixed venous due to the establishment of equal and opposing gas gradients (O2, N2, CO2) created when the partial pressure of dissolved gases is manipulated. Using an in vitro model of the pulmonary circulation perfused with defibrinated sheep blood and a membrane oxygenator to control blood gases, we assessed the percent contrast conserved (an index of contrast stability) between inflow and outflow sites at multiple flow rates (1.8, 2.8, 4.3, and 6.8 L/min) in a hyperoxic (Po2: 646 ± 16 mmHg; Pco2: 0 ± 0 mmHg) and a mixed venous blood gas condition (Po2: 35 ± 3 mmHg; Pco2: 40 ± 0 mmHg). We found significant contrast decay with time in both conditions, with slightly higher contrast conservation in the hyperoxia trials (64 ± 32%) versus the mixed venous trials (55 ± 21%). These findings suggest that contrast stability is not likely a factor affecting the interpretation of TTSCE performed in healthy humans breathing hyperoxia and lends support to the existence of a local O2-dependent mechanism contributing to the regulation of Q̇IPAVA.NEW & NOTEWORTHY Hyperoxic blood has a small stabilizing effect on agitated saline contrast compared with mixed venous blood, lending support to studies that show the reversal of exercise-induced blood flow through intrapulmonary arteriovenous anastomoses (Q̇IPAVA) with hyperoxia. These data support the possible presence of a local O2-dependent regulatory mechanism within the pulmonary vasculature that may play a role in Q̇IPAVA regulation."
+featured: false
+publication: "*Journal of Applied Physiology*"
+url_pdf: "http://journals.physiology.org/doi/full/10.1152/japplphysiol.00488.2020"
+doi: "10.1152/japplphysiol.00488.2020"
+---
+

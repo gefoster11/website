@@ -1,0 +1,14 @@
+---
+title: "Intermittent hypoxia and arterial blood pressure control in humans: role of the peripheral vasculature and carotid baroreflex."
+date: 2016-09-01
+publishDate: 2021-07-23T18:07:52.349048Z
+authors: ["Joshua C Tremblay", "Lindsey M Boulet", "Michael M Tymko", "Glen E Foster"]
+publication_types: ["2"]
+abstract: "Intermittent hypoxia (IH) occurs in association with obstructive sleep apnea and likely contributes to the pathogenesis of hypertension. The purpose of this study was to examine the putative early adaptations at the level of the peripheral vasculature and carotid baroreflex (CBR) that may promote the development of hypertension. Ten healthy male participants (26 ± 1 yr, BMI = 24 ± 1 kg/m(2)) were exposed to 6 h of IH (1-min cycles of normoxia and hypoxia) and SHAM in a single-blinded, counterbalanced crossover study design. Ambulatory blood pressure was measured during each condition and the following night. Vascular strain of the carotid and femoral artery, a measure of localized arterial stiffness, and hemodynamic shear patterns in the brachial and femoral arteries were measured during each condition. Brachial artery reactive hyperemia flow-mediated vasodilation was assessed before and after each condition as a measure of endothelial function. CBR function and its control over leg vascular conductance (LVC) were measured after each condition with a variable-pressure neck chamber. Intermittent hypoxia 1) increased nighttime pulse pressure by 3.2 ± 1.3 mmHg, 2) altered femoral but not brachial artery hemodynamics, 3) did not affect brachial artery endothelial function, 4) reduced vascular strain in the carotid and possibly femoral artery, and 5) shifted CBR mean arterial pressure (MAP) to higher MAP while blunting LVC responses to CBR loading. These results suggest limb-specific vascular impairments, reduced vascular strain, and CBR resetting combined with blunted LVC responses are factors in the early pathogenesis of IH-induced development of hypertension."
+featured: false
+publication: "*American Journal of Physiology. Heart and Circulatory Physiology*"
+tags: ["intermittent hypoxia", "Intermittent hypoxia", "arterial baroreflex", "Hypertension", "vascular strain imaging", "Hypoxia", "Flow mediated dilatation", "Ambulatory blood pressure", "Humans", "Adult", "Male", "Endothelium", "Vascular", "Sleep Apnea", "Obstructive", "Arterial Pressure", "baroreflex", "Baroreflex", "blood pressure", "Blood Pressure Monitoring", "Ambulatory", "Brachial Artery", "Carotid Arteries", "Femoral Artery", "Healthy Volunteers", "hemodynamics", "Hyperemia", "Ultrasonography", "vascular function", "Vascular Stiffness", "Vasodilation"]
+url_pdf: "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=27402667&retmode=ref&cmd=prlinks"
+doi: "10.1152/ajpheart.00388.2016"
+---
+

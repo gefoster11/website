@@ -1,0 +1,14 @@
+---
+title: "Role of CO2 in the cerebral hyperemic response to incremental normoxic and hyperoxic exercise."
+date: 2016-04-01
+publishDate: 2021-07-23T18:07:52.385244Z
+authors: ["Kurt J Smith", "K W Wildfong", "R L Hoiland", "M Harper", "N C Lewis", "A Pool", "S L Smith", "T Kuca", "G E Foster", "P N Ainslie"]
+publication_types: ["2"]
+abstract: "Cerebral blood flow (CBF) is temporally related to exercise-induced changes in partial pressure of end-tidal carbon dioxide (PetCO2 ); hyperoxia is known to enhance this relationship. We examined the hypothesis that preventing PetCO2 from rising (isocapnia) during submaximal exercise with and without hyperoxia [end-tidal Po2(PetO2 ) = 300 mmHg] would attenuate the increases in CBF. Additionally, we aimed to identify the magnitude that breathing, per se, influences the CBF response to normoxic and hyperoxic exercise. In 14 participants, CBF (intra- and extracranial) measurements were measured during exercise [20, 40, 60, and 80% of maximum workload (Wmax)] and during rest while ventilation (V̇e) was volitionally increased to mimic volumes achieved during exercise (isocapnic hyperpnea). While V̇ewas uncontrolled during poikilocapnic exercise, during isocapnic exercise and isocapnic hyperpnea, V̇ewas increased to prevent PetCO2 from rising above resting values (∼40 mmHg). Although PetCO2 differed by 2 ± 3 mmHg during normoxic poikilocapnic and isocapnic exercise, except for a greater poikilocapnic compared with isocapnic increase in blood velocity in the posterior cerebral artery at 60% Wmax, the between condition increases in intracranial (∼12-15%) and extracranial (15-20%) blood flow were similar at each workload. The poikilocapnic hyperoxic increases in both intra- and extracranial blood-flow (∼17-29%) were greater compared with poikilocapnic normoxia (∼8-20%) at intensities textgreater40% Wmax(Ptextless 0.01). During both normoxic and hyperoxic conditions, isocapnia normalized both the intracranial and extracranial blood-flow differences. Isocapnic hyperpnea did not alter CBF. Our findings demonstrate a differential effect of PetCO2 on CBF during exercise influenced by the prevailing PetO2."
+featured: false
+publication: "*Journal of applied physiology (Bethesda, Md. : 1985)*"
+tags: ["Exercise", "Cerebral Circulation", "Brain", "end-tidal forcing", "Hypercapnia", "Humans", "Hyperoxia", "exercise", "Adult", "Female", "Male", "Oxygen", "Cerebrovascular Circulation", "Respiration", "Young Adult", "Hyperemia", "Blood Flow Velocity", "carbon dioxide", "Carbon Dioxide", "Partial Pressure", "Adolescent", "cerebral blood flow", "Cerebrovascular Disorders", "hyperoxia", "hyperpnea", "Hyperventilation", "Posterior Cerebral Artery"]
+url_pdf: "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=26769951&retmode=ref&cmd=prlinks"
+doi: "10.1152/japplphysiol.00490.2015"
+---
+

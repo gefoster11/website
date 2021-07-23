@@ -1,0 +1,13 @@
+---
+title: "Effects of two protocols of intermittent hypoxia on human ventilatory, cardiovascular and cerebral responses to hypoxia"
+date: 2005-09-01
+publishDate: 2021-07-23T18:07:52.408210Z
+authors: ["Glen E. Foster", "Donald C. McKenzie", "William K. Milsom", "A. William Sheel"]
+publication_types: ["2"]
+abstract: "We determined the ventilatory, cardiovascular and cerebral tissue oxygen response to two protocols of normobaric, isocapnic, intermittent hypoxia. Subjects (n = 18, male) were randomly assigned to short-duration intermittent hypoxia (SDIH, 12% O2 separated by 5 min of normoxia for 1 h) or long-duration intermittent hypoxia (LDIH, 30 min of 12% O2). Both groups had 10 exposures over a 12 day period. The hypoxic ventilatory response (HVR) was measured before each daily intermittent hypoxia exposure on days 1, 3, 5, 8, 10 and 12. The HVR was measured again 3 and 5 days after the end of intermittent hypoxia. During all procedures, ventilation, blood pressure, heart rate, arterial oxyhaemoglobin saturation and cerebral tissue oxygen saturation were measured. The HVR increased throughout intermittent hypoxia exposure regardless of protocol, and returned to baseline by day 17 (day 1, 0.84 +/- 0.50; day 12, 1.20 +/- 1.01; day 17, 0.95 +/- 0.58 l min(-1) %S(aO2)(-1); P textless 0.01). The change in systolic blood pressure sensitivity (r = +0.68; P textless 0.05) and the change in diastolic blood pressure sensitivity (r = +0.73; P textless 0.05) were related to the change in HVR, while the change in heart rate sensitivity was not (r = +0.32; NS). The change in cerebral tissue oxygen saturation sensitivity to hypoxia was less on day 12, and returned to baseline by day 17 (day 1, -0.51 +/- 0.13; day 12, -0.64 +/- 0.18; day 17, -0.51 +/- 0.13; P textless 0.001). Acute exposure to SDIH increased mean arterial pressure (+5 mmHg; P textless 0.01), but LDIH did not (P textgreater 0.05). SDIH and LDIH had similar effects on the ventilatory and cardiovascular response to acute progressive hypoxia and hindered cerebral oxygenation. Our findings indicate that the vascular processes required to control blood flow and oxygen supply to cerebral tissue in a healthy human are hindered following exposure to 12 days of isocapnic intermittent hypoxia."
+featured: false
+publication: "*The Journal of Physiology*"
+tags: ["Heart Rate", "Brain", "Hypoxia", "Blood Pressure", "Humans", "Adult", "Male", "Oxygen", "Oxygen Consumption", "Cerebrovascular Circulation", "Pulmonary Ventilation", "Respiration", "Myocardium", "Adaptation", "Physiological"]
+doi: "10.1113/jphysiol.2005.091462"
+---
+

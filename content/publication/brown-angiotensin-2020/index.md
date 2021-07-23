@@ -1,0 +1,14 @@
+---
+title: "Angiotensin II-Type I Receptor Antagonism Does Not Influence the Chemoreceptor Reflex or Hypoxia-Induced Central Sleep Apnea in Men"
+date: 2020-01-01
+publishDate: 2021-07-23T18:07:52.416042Z
+authors: ["Courtney V. Brown", "Lindsey M. Boulet", "Tyler D. Vermeulen", "Scott A. Sands", "Richard J. A. Wilson", "Najib T. Ayas", "John S. Floras", "Glen E. Foster"]
+publication_types: ["2"]
+abstract: "Components of the renin-angiotensin system situated within the carotid body or central nervous system may promote hypoxia-induced chemoreceptor reflex sensitization or central sleep apnea (CSA). We determined if losartan, an angiotensin-II type-I receptor (AT1R) antagonist, would attenuate chemoreceptor reflex sensitivity before or after 8 hours of nocturnal hypoxia, and consequently CSA severity. In a double-blind, randomized, placebo-controlled, crossover protocol, 14 men (age: 25 ± 2 years; BMI: 24.6 ± 1.1 kg/m2; means ± SEM) ingested 3 doses of either losartan (50 mg) or placebo every 8 hours. Chemoreceptor reflex sensitivity was assessed during hypoxic and hyperoxic hypercapnic ventilatory response (HCVR) tests and during six-20s hypoxic apneas before and after 8-hours of sleep in normobaric hypoxia (FIO2 = 0.135). Loop gain was assessed from a ventilatory control model fitted to the ventilatory pattern of CSA recorded during polysomnography. Prior to nocturnal hypoxia, losartan had no effect on either the hyperoxic (losartan: 3.6 ± 1.1, placebo: 4.0 ± 0.6 l/min/mmHg; P = 0.9) or hypoxic HCVR (losartan: 5.3 ± 1.4, placebo: 5.7 ± 0.68 l/min/mmHg; P = 1.0). Likewise, losartan did not influence either the hyperoxic (losartan: 4.2 ± 1.3, placebo: 3.8 ± 1.1 l/min/mmHg; P = 0.5) or hypoxic HCVR (losartan: 6.6 ± 1.8, placebo: 6.3 ± 1.5 l/min/mmHg; P = 0.9) after nocturnal hypoxia. Cardiorespiratory responses to apnea and participants’ apnea hypopnea indexes during placebo and losartan were similar (73 ± 15 vs 75 ± 14 events/hr; P = 0.9). loop gain, which correlated with CSA severity (r = 0.94, P textless 0.001), was similar between treatments. In summary, in young healthy men, hypoxia-induced CSA severity is strongly associated with loop gain, but the AT1R does not modulate chemoreceptor reflex sensitivity before or after 8 hours of nocturnal hypoxia."
+featured: false
+publication: "*Frontiers in Neuroscience*"
+tags: ["Angiotensin Receptor", "Sleep Apnea", "hypoxia", "Chemoreceptor reflex", "human"]
+url_pdf: "https://www.frontiersin.org/articles/10.3389/fnins.2020.00382/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neuroscience&id=529283"
+doi: "10.3389/fnins.2020.00382"
+---
+

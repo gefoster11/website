@@ -1,0 +1,13 @@
+---
+title: "Effect on Intermittent Hypoxia on Plasma Exosomal Micro RNA Signature and Endothelial Function in Healthy Adults"
+date: 2016-01-01
+publishDate: 2021-07-23T18:07:52.394906Z
+authors: ["Abdelnaby Khalyfa", "Chunling Zhang", "Ahamed A. Khalyfa", "Glen E. Foster", "Andrew E. Beaudin", "Jorge Andrade", "Patrick J. Hanly", "Marc J. Poulin", "David Gozal"]
+publication_types: ["2"]
+abstract: "STUDY OBJECTIVE: Intermittent hypoxia (IH) is associated with increased risk of cardiovascular disease. Exosomes are secreted by most cell types and released in biological fluids, including plasma, and play a role in modifying the functional phenotype of target cells. Using an experimental human model of IH, we investigated potential exosome-derived biomarkers of IH-induced vascular dysfunction. METHODS: Ten male volunteers were exposed to room air (D0), IH (6 h/day) for 4 days (D4) and allowed to recover for 4 days (D8). Circulating plasma exosomes were isolated and incubated with human endothelial monolayer cultures for impedance measurements and RNA extracted and processed with messenger RNA (mRNA) arrays to identify gene targets. In addition, immunofluorescent assessments of endothelial nitric oxide synthase (eNOS) mRNA expression, ICAM-1 cellular distribution were conducted. RESULTS: Plasma exosomal micro RNAs (miRNAs) were profiled. D4 exosomes, primarily from endothelial sources, disrupted impedance levels compared to D0 and D8. ICAM-1 expression was markedly upregulated in endothelial cells exposed to D4 exosomes along with significant reductions in eNOS expression. Microarray approaches identified a restricted and further validated signature of exosomal miRNAs in D4 exosomes, and mRNA arrays revealed putative endothelial gene target pathways. CONCLUSIONS: In humans, intermittent hypoxia alters exosome cargo in the circulation which promotes increased permeability and dysfunction of endothelial cells in vitro. A select number of circulating exosomal miRNAs may play important roles in the cardiovascular dysfunction associated with OSA by targeting specific effector pathways."
+featured: false
+publication: "*Sleep*"
+tags: ["cardiovascular disease", "Exosomes", "intermittent hypoxia", "Reference Values", "Hypoxia", "Humans", "endothelium", "exosomes", "experimental human model", "sleep apnea", "Adult", "Male", "Biomarkers", "Cardiovascular Diseases", "circulating miRNAs", "Endothelial Cells", "Endothelium", "Vascular", "healthy human volunteers", "In Vitro Techniques", "Intercellular Adhesion Molecule-1", "MicroRNAs", "Nitric Oxide Synthase Type III", "Real-Time Polymerase Chain Reaction", "RNA", "Messenger", "Sleep Apnea", "Obstructive", "Up-Regulation"]
+doi: "10.5665/sleep.6302"
+---
+

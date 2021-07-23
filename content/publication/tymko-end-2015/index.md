@@ -1,0 +1,14 @@
+---
+title: "End tidal-to-arterial CO$_textrm2$ and O$_textrm2$ gas gradients at low- and high-altitude during dynamic end-tidal forcing."
+date: 2015-06-01
+publishDate: 2021-07-23T18:07:52.353313Z
+authors: ["Michael M Tymko", "Philip N Ainslie", "David B MacLeod", "Chris K Willie", "Glen E Foster"]
+publication_types: ["2"]
+abstract: "We sought to characterize and quantify the performance of a portable dynamic end-tidal forcing (DEF) system in controlling the partial pressure of arterial CO2 (Pa(CO2)) and O2 (Pa(O2)) at low (LA; 344 m) and high altitude (HA; 5,050 m) during an isooxic CO2 test and an isocapnic O2 test, which is commonly used to measure ventilatory and vascular reactivity in humans (n = 9). The isooxic CO2 tests involved step changes in the partial pressure of end-tidal CO2 (PET(CO2)) of -10, -5, 0, +5, and +10 mmHg from baseline. The isocapnic O2 test consisted of a 10-min hypoxic step (PET(O2) = 47 mmHg) from baseline at LA and a 5-min euoxic step (PET(O2) = 100 mmHg) from baseline at HA. At both altitudes, PET(O2) and PET(CO2) were controlled within narrow limits (textless1 mmHg from target) during each protocol. During the isooxic CO2 test at LA, PET(CO2) consistently overestimated Pa(CO2) (P textless 0.01) at both baseline (2.1 ± 0.5 mmHg) and hypercapnia (+5 mmHg: 2.1 ± 0.7 mmHg; +10 mmHg: 1.9 ± 0.5 mmHg). This P(a)-PET(CO2) gradient was approximately twofold greater at HA (P textless 0.05). At baseline at both altitudes, PET(O2) overestimated Pa(O2) by a similar extent (LA: 6.9 ± 2.1 mmHg; HA: 4.5 ± 0.9 mmHg; both P textless 0.001). This overestimation persisted during isocapnic hypoxia at LA (6.9 ± 0.6 mmHg) and during isocapnic euoxia at HA (3.8 ± 1.2 mmHg). Step-wise multiple regression analysis, on the basis of the collected data, revealed that it may be possible to predict an individual's arterial blood gases during DEF. Future research is needed to validate these prediction algorithms and determine the implications of end-tidal-to-arterial gradients in the assessment of ventilatory and/or vascular reactivity."
+featured: false
+publication: "*American Journal of Physiology. Regulatory, Integrative and Comparative Physiolo`gy*"
+tags: ["Pulmonary Gas Exchange", "end-tidal to arterial Difference", "Hypoxia", "High altitude", "Altitude", "end-tidal forcing", "Hypercapnia", "Humans", "Adult", "Male", "Oxygen", "high altitude", "Lung", "Respiratory Function Tests", "Biomarkers", "Blood Gas Analysis", "Tidal Volume", "Algorithms", "Carbon Dioxide", "Partial Pressure", "Regression Analysis", "Respiratory Mechanics", "Models", "Biological", "Time Factors", "Analysis of Variance", "gas exchange"]
+url_pdf: "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=25810386&retmode=ref&cmd=prlinks"
+doi: "10.1152/ajpregu.00425.2014"
+---
+
