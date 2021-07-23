@@ -1,5 +1,5 @@
 ---
-title: "Influence of blood Po 2 on the stability of agitated saline contrast."
+title: "Influence of blood Po2 on the stability of agitated saline contrast."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
