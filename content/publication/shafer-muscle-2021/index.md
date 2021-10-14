@@ -1,6 +1,6 @@
 ---
 title: "Muscle Metaboreflex Control of Sympathetic Activity Is Preserved following Acute Intermittent Hypercapnic Hypoxia"
-date: 2021-06-01
+date: 2021-10-01
 publishDate: 2021-07-23T18:07:52.422863Z
 authors: ["Brooke M. Shafer", "Anthony V. Incognito", "Tyler D. Vermeulen", "Massimo Nardone", "André L. Teixeira", "Jenna Benbaruj", "Philip J. Millar", "Glen E. Foster"]
 publication_types: ["2"]
