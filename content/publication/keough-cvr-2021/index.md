@@ -1,6 +1,6 @@
 ---
 title: "Regional differences in cerebrovascular reactivity in response to acute isocapnic hypoxia in healthy humans: Methodological considerations"
-date: 2021-12-01
+date: 2021-11-01
 publishDate: 2021-12-01T18:07:52.414388Z
 authors: ["Joanna Keough", "Valerie Cates", "Michael Tymko", "Linsey Boulet", "Alenna Jamieson", "Glen E. Foster", "Trevor Day"]
 publication_types: ["2"]
