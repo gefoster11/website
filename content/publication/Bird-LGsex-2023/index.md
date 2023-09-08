@@ -1,0 +1,13 @@
+---
+title: "Sex-related Differences in Loop Gain during High-Altitude Sleep-disordered Breathing"
+date: 2023-08-01
+publishDate: 2023-08-01
+authors: ["Jordan Bird", "Scott Sands", "Raichel Alex", "Conan Shing", "Brooke Shafer", "Nicholas Jendzjowsky", "Richard Wilson", "Trevor Day", "Glen E Foster"]
+publication_types: ["2"]
+abstract: "Rationale: Central sleep apnea (CSA) is pervasive during sleep at high altitude, disproportionately impacting men and associated with increased peripheral chemosensitivity. Objectives: We aimed to assess whether biological sex affects loop gain (LGn) and CSA severity during sleep over 9-10 days of acclimatization to 3,800 m. We hypothesized that CSA severity would worsen with acclimatization in men but not in women because of greater increases in LGn in men. Methods: Sleep studies were collected from 20 (12 male) healthy participants at low altitude (1,130 m, baseline) and after ascent to (nights 2/3, acute) and residence at high altitude (nights 9/10, prolonged). CSA severity was quantified as the respiratory event index (REI) as a surrogate of the apnea-hypopnea index. LGn, a measure of ventilatory control instability, was quantified using a ventilatory control model fit to nasal flow. Linear mixed models evaluated effects of time at altitude and sex on respiratory event index and LGn. Data are presented as contrast means with 95% confidence intervals. Results: REI was comparable between men and women at acute altitude (4.1 [-9.3, 17.5] events/h; P = 0.54) but significantly greater in men at prolonged altitude (23.7 [10.3, 37.1] events/h; P = 0.0008). Men had greater LGn than did women for acute (0.08 [0.001, 0.15]; P = 0.047) and prolonged (0.17 [0.10, 0.25]; P < 0.0001) altitude. The change in REI per change in LGn was significantly greater in men than in women (107 ± 46 events/h/LGn; P = 0.02). Conclusions: The LGn response to high altitude differed between sexes and contributed to worsening of CSA over time in men but not in women. This sex difference in acclimatization appears to protect females from high altitude-related CSA. These data provide fundamental sex-specific physiological insight into high-altitude acclimatization in healthy individuals and may help to inform sex differences in sleep-disordered breathing pathogenesis in patients with cardiorespiratory disease."
+featured: true
+publication: "*Annals of the American Thoracic Society*"
+tags: ["central sleep apnea", "high altitude", "loop gain", "periodic breathiing"]
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/37000675/"
+doi: "10.1513/AnnalsATS.202211-918OC"
+---
